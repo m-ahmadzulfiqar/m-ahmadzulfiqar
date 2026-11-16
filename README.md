@@ -21,7 +21,7 @@ I'm currently building my foundation in programming and exploring the world of D
 - Build practical projects and share my learning journey
 
 ### 📫 Connect With Me
-- LinkedIn: [Add your LinkedIn profile link]
+- LinkedIn: https://www.linkedin.com/in/muhammad-ahmad-9251813aa/
 
 ---
 
