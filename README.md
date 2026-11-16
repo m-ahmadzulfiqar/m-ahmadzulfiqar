@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ahmad! 👋
 
-<!--
-**m-ahmadzulfiqar/m-ahmadzulfiqar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Data Science student at UET Lahore, Pakistan.
 
-Here are some ideas to get you started:
+I'm currently building my foundation in programming and exploring the world of Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- C++
+- Programming Fundamentals
+- Problem Solving
+- Data Science Fundamentals
+
+### 🛠️ Skills
+- C++
+- Basic Programming
+
+### 🎯 My Goals
+- Strengthen my programming fundamentals
+- Learn Python
+- Explore Data Science and Machine Learning
+- Build practical projects and share my learning journey
+
+### 📫 Connect With Me
+- LinkedIn: [Add your LinkedIn profile link]
+
+---
+
+*Learning, building, and improving one step at a time.*
